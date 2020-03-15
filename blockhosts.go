@@ -43,7 +43,7 @@ func main() {
         fmt.Println(makerh)
         fmt.Println(makerd)
     } else {
-        fmt.Println("The argument(s) is null, exited.")
+        fmt.Println("The argument is null, exited.")
         fmt.Println("The arguments are:")
         fmt.Println("  -f    Default: IPv4")
         fmt.Println("  -s    IPv6")
