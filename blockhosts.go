@@ -34,7 +34,7 @@ func main() {
             }
         }
         if filePath == "" {
-            fmt.Println("Error file path, exited.")
+            fmt.Println("The file path is null, exited.")
             return
         }
         fmt.Println(filePath)
