@@ -1,5 +1,6 @@
 # blockhosts
 The simple program can makes a block hosts file.
+
 It supports IPv4 and IPv6. It can makes:
 
 * Hosts file for Windows, macOS, Linux.
