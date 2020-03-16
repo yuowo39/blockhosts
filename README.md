@@ -22,8 +22,9 @@ Each host on one line, for example:
     ./blockhosts tiktok-hosts.txt
 
 ## Arguments
--f       Default: IPv4
--s       IPv6
--h       Default: Hosts(Windows, macOS, Linux)
--d       Dnsmasq
-FilePath
+
+    -f       Default: IPv4
+    -s       IPv6
+    -h       Default: Hosts(Windows, macOS, Linux)
+    -d       Dnsmasq
+    FilePath
