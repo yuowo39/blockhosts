@@ -1,4 +1,5 @@
 # blockhosts
+    The simple program can makes a block hosts file. 
 ## How to use
     git clone https://github.com/yuowo39/blockhosts.git
     cd blockhosts/
