@@ -9,11 +9,13 @@ It supports IPv4 and IPv6. It can makes:
 ## Input file format
 one host on one line, for example:
 
-    p1-dy.bytecdn.cn
-    p2-dy.bytecdn.cn
-    p3-dy.bytecdn.cn
-    p4-dy.bytecdn.cn
-    p5-dy.bytecdn.cn
+```
+p1-dy.bytecdn.cn
+p2-dy.bytecdn.cn
+p3-dy.bytecdn.cn
+p4-dy.bytecdn.cn
+p5-dy.bytecdn.cn
+```
 
 ## How to use
 
@@ -26,8 +28,10 @@ $ ./blockhosts tiktok-hosts.txt
 
 ## Arguments
 
-    -f       Default: IPv4
-    -s       IPv6
-    -h       Default: Hosts(Windows, macOS, Linux)
-    -d       Dnsmasq
-    FilePath
+```
+-f       Default: IPv4
+-s       IPv6
+-h       Default: Hosts(Windows, macOS, Linux)
+-d       Dnsmasq
+FilePath
+```
