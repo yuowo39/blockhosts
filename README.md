@@ -17,10 +17,12 @@ one host on one line, for example:
 
 ## How to use
 
-    git clone https://github.com/yuowo39/blockhosts.git
-    cd blockhosts/
-    go build blockhosts.go
-    ./blockhosts tiktok-hosts.txt
+```
+$ git clone https://github.com/yuowo39/blockhosts.git
+$ cd blockhosts/
+$ go build blockhosts.go
+$ ./blockhosts tiktok-hosts.txt
+```
 
 ## Arguments
 
