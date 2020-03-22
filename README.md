@@ -3,8 +3,8 @@ The simple program can makes a block hosts file.
 
 It supports IPv4 and IPv6. It can makes:
 
-* Hosts file for Windows, macOS, Linux.
-* Hosts file for Dnsmasq.
+* Hosts for Windows, macOS, Linux.
+* Hosts for Dnsmasq.
 
 ## Input file format
 Each host on one line, for example:
