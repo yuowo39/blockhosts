@@ -7,7 +7,7 @@ It supports IPv4 and IPv6. It can makes:
 * Hosts for Dnsmasq.
 
 ## Input file format
-Each host on one line, for example:
+one host on one line, for example:
 
     p1-dy.bytecdn.cn
     p2-dy.bytecdn.cn
